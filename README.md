@@ -1,2 +1,2 @@
-# collective_sense_experiments
+# anomaly_detection_experiments
 Experimental implemtations
